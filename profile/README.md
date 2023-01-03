@@ -1,12 +1,12 @@
-# Welcome to Techsplet's official GitHub!
+# Welcome to Ran Over Studios's official GitHub!
 
 ## Q&A
 
-Q: What is Techsplet?
+Q: What is Ran Over Studios?
 :-
-A: Techsplet is a small team working on Software and possibly even Games... all for fun!
+A: Ran Over Studios is a small team working on Software and possibly even Games... all for fun!
 
-Q: Who owns Techsplet?
+Q: Who owns Ran Over Studios?
 :-
 A: SpunBlue
 
